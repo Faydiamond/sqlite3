@@ -1,0 +1,3 @@
+in the consola your put the name 
+data base:  yeronnnn
+tabla: person
